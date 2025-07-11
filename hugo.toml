@@ -2,7 +2,6 @@ baseURL = 'https://m12Passarini.org/'
 languageCode = 'en-us'
 title = 'm12Passarini'
 theme = 'hugo-blog-awesome'
-HUGO_VERSION = 0.148.1
 
 # This defines how dates are formatted
 defaultContentLanguage = "en-gb"
