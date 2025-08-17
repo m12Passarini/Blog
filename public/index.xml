@@ -1,1 +1,28 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>m12Passarini</title><link>https://m12Passarini.org/</link><description>Recent content on m12Passarini</description><generator>Hugo -- gohugo.io</generator><language>en-gb</language><lastBuildDate>Sun, 22 Jun 2025 23:22:44 -0300</lastBuildDate><atom:link href="https://m12Passarini.org/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>m12Passarini</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on m12Passarini</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 22 Jun 2025 23:22:44 -0300</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome</title>
+      <link>http://localhost:1313/posts/welcome/</link>
+      <pubDate>Sun, 22 Jun 2025 23:22:44 -0300</pubDate>
+      
+      <guid>http://localhost:1313/posts/welcome/</guid>
+      
+      <description>&lt;h2 id=&#34;hello-bitches&#34;&gt;Hello bitches&lt;/h2&gt;
+&lt;p&gt;This blog was made with intention to talk about programming, electronics, math and other nerdy stuff like that. Hope you enjoy the content!&lt;/p&gt;
+&lt;p&gt;Thank you!&lt;/p&gt;
+&lt;h2 id=&#34;i-dont-know&#34;&gt;I dont know&lt;/h2&gt;
+&lt;p&gt;arehtr&lt;/p&gt;
+&lt;h2 id=&#34;hahahahahha&#34;&gt;HAHAHAHAHHA&lt;/h2&gt;
+&lt;p&gt;I so serious????????&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
