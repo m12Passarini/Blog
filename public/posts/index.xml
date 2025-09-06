@@ -6,21 +6,28 @@
     <description>Recent content in Posts on m12Passarini</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 22 Jun 2025 23:22:44 -0300</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Sep 2025 19:06:18 -0300</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Welcome</title>
-      <link>http://localhost:1313/posts/welcome/</link>
+      <title>Grandezas Eletricas</title>
+      <link>http://localhost:1313/posts/grandezaseletricas/</link>
+      <pubDate>Sat, 06 Sep 2025 19:06:18 -0300</pubDate>
+      
+      <guid>http://localhost:1313/posts/grandezaseletricas/</guid>
+      
+      <description>&lt;p&gt;Acredito que para entender sobre a elétrica e prosseguir nos estudos dessa área, antes de tudo, é importante possuir um conhecimento mínimo de suas grandezas, já que posteriormente todos os componentes e conceitos se relacionarão a partir disso.&lt;/p&gt;
+&lt;p&gt;Este post a princípio vai explicar de maneira breve e fazer algumas analogias para você ter um vislumbre sobre o assunto, mas caso queira realmente aprender, é necessário mais prática e teoria visto que esse conteúdo não será suficiente.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Começando na elétrica</title>
+      <link>http://localhost:1313/posts/comecandoeletrica/</link>
       <pubDate>Sun, 22 Jun 2025 23:22:44 -0300</pubDate>
       
-      <guid>http://localhost:1313/posts/welcome/</guid>
+      <guid>http://localhost:1313/posts/comecandoeletrica/</guid>
       
-      <description>&lt;h2 id=&#34;hello-bitches&#34;&gt;Hello bitches&lt;/h2&gt;
-&lt;p&gt;This blog was made with intention to talk about programming, electronics, math and other nerdy stuff like that. Hope you enjoy the content!&lt;/p&gt;
-&lt;p&gt;Thank you!&lt;/p&gt;
-&lt;h2 id=&#34;i-dont-know&#34;&gt;I dont know&lt;/h2&gt;
-&lt;p&gt;arehtr&lt;/p&gt;
-&lt;h2 id=&#34;hahahahahha&#34;&gt;HAHAHAHAHHA&lt;/h2&gt;
-&lt;p&gt;I so serious????????&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;história-da-elétricidade&#34;&gt;História da elétricidade&lt;/h2&gt;
+&lt;h2 id=&#34;dificuldade-em-aprender-elétrica&#34;&gt;Dificuldade em aprender elétrica&lt;/h2&gt;</description>
       
     </item>
     
